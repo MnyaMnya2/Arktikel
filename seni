@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Artikel</title>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="Ekstrakurikuler">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="author" content="MNyaMnya2">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="icon" type="image/x-icon" href="img/2408610.png">
+    <link href='https://fonts.googleapis.com/css?family=Lugrasimo' rel='stylesheet'>
+</head>
+<body>
+    <a href="Index.html"><h1 id="meh">Contoh Ekstrakurikuler</h1></a>
+    <div class="isi">
+            
+            <div class="an"><b>Kesenian:</b></div>
+            <ul>
+                <li>Shutherland</li>
+                <li>Sketsa</li>
+                <li>Jurnalistik</li>
+                <li>Ranshiki</li>
+                <li>Sinomatografi</li>
+            </ul>
+           
+            <div class="an"><b>Olahraga:</b></div>
+            <ul>
+                <li>Bola Basket</li>
+                <li>Bola Voli</li>
+                <li>Futsal</li>
+             <li>Bulu Tangkis</li>
+            </ul>
+    </div>
+    
+</body> 
+</body>
+</html>
