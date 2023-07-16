@@ -12,24 +12,55 @@
     <link href='https://fonts.googleapis.com/css?family=Lugrasimo' rel='stylesheet'>
 </head>
 <body>
-    <a href="Index.html"><h1 id="meh">Contoh Ekstrakurikuler</h1></a>
+    <div id="header"><a href="Index.html"><h1 id="meh"><img src="img/sma1l.png"> Ekstrakurikuler di SMAN 1 Bukittinggi</h1></a></div>
     <div class="isi">
             
             <div class="an"><b>Kesenian:</b></div>
             <ul>
-                <li>Shutherland</li>
                 <li>Sketsa</li>
                 <li>Jurnalistik</li>
-                <li>Ranshiki</li>
-                <li>Sinomatografi</li>
             </ul>
            
             <div class="an"><b>Olahraga:</b></div>
             <ul>
-                <li>Bola Basket</li>
-                <li>Bola Voli</li>
+                <li>Basketball</li>
+                <li>Voli</li>
                 <li>Futsal</li>
-             <li>Bulu Tangkis</li>
+                <li>BOLD</li>
+            </ul>
+            <div class="an"><b>Kebahasaan:</b></div>
+            <ul>
+                <li>Debat</li>
+                <li>Ranshiki</li>
+                <li>Landkarte</li>
+            </ul>
+            <div class="an"><b>IT:</b></div>
+            <ul>
+                <li>Liivo</li>
+                <li>Shuttherland</li>
+                <li>Sinematografi</li>
+                <li>KIR</li>
+            </ul>
+            <div class="an"><b>Bela negara:</b></div>
+            <ul>
+                <li>Paspram</li>
+                <li>PMR</li>
+                <li>PIK-R</li>
+            </ul>
+            <div class="an"><b>Lingkangan hidup:</b></div>
+            <ul>
+                <li>Sispala</li>
+                <li>Persland</li>
+            </ul>
+            <div class="an"><b>Pendidikan</b></div>
+            <ul>
+                <li>LCC 4 pilar</li>
+                <li>ALSO</li>
+                <li>Hosland</li>
+            </ul>
+            <div class="an"><b>Religi:</b></div>
+            <ul>
+                <li>FSI</li>
             </ul>
     </div>
     
