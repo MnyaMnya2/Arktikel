@@ -71,16 +71,16 @@ h2{
 
 @media only screen and (max-width: 768px) {
   .an{
-    font-size: 160%;
+    font-size: 220%;
   }
   ul{
-    font-size: 120%;
+    font-size: 200%;
   }
   h2{
-    font-size: 180%;
+    font-size: 220%;
   }
   p{
-    font-size: 150%;
+    font-size: 220%;
   }
   body {
     font-size: 50%;
